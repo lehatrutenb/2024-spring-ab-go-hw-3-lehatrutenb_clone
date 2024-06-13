@@ -1,0 +1,8 @@
+go 1.21.5
+
+use (
+	./app/client
+	./app/server
+	./app/storage
+	./app/server/external/envconfig
+)
